@@ -2,31 +2,31 @@ const certificates = [
   {
     title: 'Data Science Master',
     description: 'Comprehensive certification in data science covering machine learning, data analysis, and statistical modeling.',
-    link: '/photos/alter data science master.pdf',
+    link: '/photos/alter-data-science-master.pdf',
     thumbnail: '/certificate-python.svg',
   },
   {
     title: 'Google Android Developer',
     description: 'Certified in Android application development, Kotlin programming, and mobile UI/UX best practices.',
-    link: '/photos/google android devoleper.pdf',
+    link: '/photos/google-android-developer.pdf',
     thumbnail: '/certificate-frontend.svg',
   },
   {
     title: 'Java Full Stack Virtual Internship',
     description: 'Virtual internship certification covering full-stack Java development, Spring Boot, and enterprise application architecture.',
-    link: '/photos/java full stack virtual inten.pdf',
+    link: '/photos/java-full-stack-virtual-internship.pdf',
     thumbnail: '/certificate-frontend.svg',
   },
   {
     title: 'Deloitte Data Analytics Job Simulation',
     description: 'Job simulation certification in data analytics, covering data visualization, statistical analysis, and business intelligence tools.',
-    link: '/photos/deloite data analytics 1.pdf',
+    link: '/photos/deloitte-data-analytics-1.pdf',
     thumbnail: '/certificate-python.svg',
   },
   {
     title: 'Cyber Job Simulation',
     description: 'Job simulation certification in cybersecurity, covering threat analysis, security protocols, and incident response procedures.',
-    link: '/photos/cyber job simulation.pdf',
+    link: '/photos/cyber-job-simulation.pdf',
     thumbnail: '/certificate-cybersecurity.svg',
   },
 ];

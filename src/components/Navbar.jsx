@@ -10,7 +10,7 @@ const Navbar = () => (
           <a className="btn btn-primary" href="#contact">Contact</a>
         </div>
         <div className="nav-actions">
-          <a className="btn btn-primary" href="/resume/Rahul Resume.docx" download>Resume</a>
+          <a className="btn btn-primary" href="/resume/rahul-resume.docx" download>Resume</a>
           <a className="btn btn-primary" href="#contact">Hire Me</a>
         </div>
       </div>
